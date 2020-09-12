@@ -1,0 +1,22 @@
+{
+  "name": "devlopr-jekyll",
+  "homepage": "https://github.com/mkbnil/mkbnil.github.io",
+  "authors": [
+    "Binil M K <cnctbinil@gmail.com>"
+  ],
+  "description": "My Personal blog",
+  "main": "",
+  "keywords": [
+    "jekyll-theme",
+    "jekyll",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
